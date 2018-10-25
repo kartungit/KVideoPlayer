@@ -1,0 +1,6 @@
+framework module Pods_KVideoPlayer_Example {
+  umbrella header "Pods-KVideoPlayer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
